@@ -1,1 +1,1 @@
-# Imlement the Hourglass(Stacked Hourglass Networks for Human Pose Estimation)
+# Implement the Hourglass(Stacked Hourglass Networks for Human Pose Estimation)
